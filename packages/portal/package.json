@@ -1,0 +1,12 @@
+{
+  "name": "portal",
+  "scripts": {
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.2.0",
+    "vite": "^3.2.4",
+    "vue": "^3.2.45"
+  }
+}
